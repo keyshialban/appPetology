@@ -32,6 +32,5 @@ Cuidar de las mascotas puede ser un desafío, ya que muchas personas enfrentan d
 ## Sobre nosotros  
 En **Petology**, nos comprometemos a cuidar de las mascotas como si fueran parte de nuestra familia. Con profesionales altamente capacitados y una experiencia amigable, trabajamos para garantizar que cada mascota reciba el amor y cuidado que merece.  
 
-¡Gracias por confiar en nosotros para el cuidado de tus mascotas! 🐾  
+¡Gracias por confiar en nosotros para el cuidado de tus mascotas, contáctanos! 🐾  
 
----
